@@ -1,3 +1,5 @@
+<img src="https://github.com/BorneLabs/Grid-Forum/blob/main/Assets/TheGrid%20Transparent%20Icon.png" width="50%" />
+
 # Grid Forum
 
 ## Overview
