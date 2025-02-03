@@ -30,7 +30,7 @@ We welcome contributions! Feel free to fork the repository, make changes, and su
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please reach out via GitHub or email me at [brianxborne@gmail.com](mailto:brianxborne@gmail.com).
+For questions or feedback, please reach out via GitHub or email us at [BorneLabs.org](mailto:bornelabs.org@gmail.com).
 
 ## Links
 - **GitHub Repository:** [The Grid](https://github.com/BrianxBorne/APP-The-Grid)
